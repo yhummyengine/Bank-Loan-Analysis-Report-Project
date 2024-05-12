@@ -25,12 +25,16 @@ In the initial data prep phase, we performed the following tasks:
 
 While conducting EDA and Dashboard creation, we needed to answer key questions such as:
 1. Total Loan Application
+![image](https://github.com/yhummyengine/Bank-Loan-Analysis-Report-Project/assets/62261166/1890bb39-7a38-4b28-9773-5fbac9b62914)
 
 2. Total Funded Amount
+![image](https://github.com/yhummyengine/Bank-Loan-Analysis-Report-Project/assets/62261166/f27103ba-4fbd-4d65-ae98-19fbe2f1ac71)
 
 3. Total Amount Received
+![image](https://github.com/yhummyengine/Bank-Loan-Analysis-Report-Project/assets/62261166/087a5d4c-5aa1-473e-998d-86cfd5f0eec5)
 
 4. Average Interest Rate
+![image](https://github.com/yhummyengine/Bank-Loan-Analysis-Report-Project/assets/62261166/b02cbe97-c2e3-4fcf-b3c4-67017a745632)
 
 ### Results/Findings
 
